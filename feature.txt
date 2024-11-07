@@ -1,1 +1,2 @@
 Hi this is an asignment
+This is a text file which is for git merge and forking a repositories in github
